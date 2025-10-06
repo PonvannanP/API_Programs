@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pincode verification Project">
+    <test verbose="2" preserve-order="true" name="C:/Users/Ponvannan.P/IdeaProjects/ATB11xAutomationPrograms">
+        <parameter name="browser" value="Firefox"></parameter>
+        <classes>
+            <class name="com.thetestingacademy.ex_04_TestNGExamples.Lab021_Parameter">
+
+            </class>
+        </classes>
+    </test>
+</suite>
