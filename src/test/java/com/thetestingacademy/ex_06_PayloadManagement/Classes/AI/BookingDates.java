@@ -6,19 +6,19 @@ public class BookingDates {
         private String checkout;
 
         // Getters and Setters
-        public String getCheckin() {
+        public String getcheckin() {
             return checkin;
         }
 
-        public void setCheckin(String checkin) {
+        public void setcheckin(String checkin) {
             this.checkin = checkin;
         }
 
-        public String getCheckout() {
+        public String getcheckout() {
             return checkout;
         }
 
-        public void setCheckout(String checkout) {
+        public void setcheckout(String checkout) {
             this.checkout = checkout;
         }
     }

@@ -9,51 +9,51 @@ public class booking {
     private String additionalneeds;
 
     // Getters and Setters
-    public String getFirstname() {
+    public String getfirstname() {
         return firstname;
     }
 
-    public void setFirstname(String firstname) {
+    public void setfirstname(String firstname) {
         this.firstname = firstname;
     }
 
-    public String getLastname() {
+    public String getlastname() {
         return lastname;
     }
 
-    public void setLastname(String lastname) {
+    public void setlastname(String lastname) {
         this.lastname = lastname;
     }
 
-    public int getTotalprice() {
+    public int gettotalprice() {
         return totalprice;
     }
 
-    public void setTotalprice(int totalprice) {
+    public void settotalprice(int totalprice) {
         this.totalprice = totalprice;
     }
 
-    public boolean isDepositpaid() {
+    public boolean isdepositpaid() {
         return depositpaid;
     }
 
-    public void setDepositpaid(boolean depositpaid) {
+    public void setdepositpaid(boolean depositpaid) {
         this.depositpaid = depositpaid;
     }
 
-    public BookingDates getBookingdates() {
+    public BookingDates getbookingdates() {
         return bookingdates;
     }
 
-    public void setBookingdates(BookingDates bookingdates) {
+    public void setbookingdates(BookingDates bookingdates) {
         this.bookingdates = bookingdates;
     }
 
-    public String getAdditionalneeds() {
+    public String getadditionalneeds() {
         return additionalneeds;
     }
 
-    public void setAdditionalneeds(String additionalneeds) {
+    public void setadditionalneeds(String additionalneeds) {
         this.additionalneeds = additionalneeds;
     }
 }
